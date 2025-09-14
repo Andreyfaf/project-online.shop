@@ -21,7 +21,7 @@
 
 🧩 Используемые технологии
 
-Frontend: React, HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript
 
 Сборка и разработка: Vite
 
